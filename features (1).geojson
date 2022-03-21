@@ -1,0 +1,1283 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Door is Open - Meal Program",
+        "description": "\tM. T. Th. F. Sat at 11am. W at 8:30am & 11:30am. Sun at 12pm.",
+        "address": "\t255 Dunlevy Ave Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.095626,
+          49.282407
+        ],
+        "type": "Point"
+      },
+      "id": "04b409774560ba58628148c7d313118e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cedar Cottage Food Network - Produce Box",
+        "description": "\tLow cost pre-packaged produce box. Pickup Wed. 12:15-1:30pm.",
+        "address": "\t2670 Victoria Dr Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.064951,
+          49.26068
+        ],
+        "type": "Point"
+      },
+      "id": "073df058803eef95205036be337b47b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First United Church - Meal Program",
+        "description": "\tMeal served 5-6pm (lineup 4:30pm) every cheque Tuesday (usually fourth Tuesday of the month). as well as Jan 18. 25; Feb 15. 22; March 22. 29; and April 26.",
+        "address": "\t320 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.096842,
+          49.280981
+        ],
+        "type": "Point"
+      },
+      "id": "0ac81a0a6341ee7000bee2000fcf2f88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "A Loving Spoonful - Meals and groceries",
+        "description": "\tEligible individuals and families can sign up by calling (604) 682-6325. or be referred by a Doctor. Nurse. Dietitian. Case Worker or Social Worker. To refer an individual or family. fax referrals to 604-683-6327 or call (604) 682-6325 with any questions.",
+        "address": "\t1449 Powell St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.07419,
+          49.28329
+        ],
+        "type": "Point"
+      },
+      "id": "0c7f92a1c1d9408baee3dc6384a0069d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Dugout - Hot Breakfast",
+        "description": "\tM-Sat 7:30am; Sun & Holidays 8:30am. For info call (604) 685-5239.",
+        "address": "\t59 Powell St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.102773,
+          49.283284
+        ],
+        "type": "Point"
+      },
+      "id": "0e3ae28095c5ea8e4303404a7a8ea36f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saige Community Food Bank - Food Hamper Delivery",
+        "description": "\tNo barrier. safe program for LGBTQ2+. Provides fresh produce and baked goods.",
+        "address": "\t2425 Oxford St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.055856,
+          49.286005
+        ],
+        "type": "Point"
+      },
+      "id": "1093ee042af62ed84119754a16de1025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aboriginal Front Door Society - Meal Program",
+        "description": "\tLunch 12-1:30pm. Coffee. tea and snacks 10am-3pm",
+        "address": "\t384 Main St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.099581,
+          49.281633
+        ],
+        "type": "Point"
+      },
+      "id": "11d640a8750164ab8f6530348d9fca01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chinatown Cares - Grocery Hampers",
+        "description": "\tN/A",
+        "address": "\t188 E Pender St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.10015,
+          49.280361
+        ],
+        "type": "Point"
+      },
+      "id": "11e7bd31e86101557da4b355f0deb146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WISH Drop-In Centre - Takeout Meals",
+        "description": "\tDinner at 6pm-8pm. Breakfast at 7am-9am. Snacks at 10pm. 1am-4am. 10:30am",
+        "address": "12-5pm. Open to all self-identified women who are past or present sex workers.",
+        "cost": "\t330 Alexander St Vancouver BC",
+        "signups": "\tCost: Free"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.096462,
+          49.284004
+        ],
+        "type": "Point"
+      },
+      "id": "21e98187dc2ec64d915e1dc6e9a90c6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Covenant House - Hamper Program",
+        "description": "\tN/A",
+        "address": "\t1302 Seymour St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.126681,
+          49.275159
+        ],
+        "type": "Point"
+      },
+      "id": "225d8fedbb912e2a840f6d51a94a1564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mission Possible - Power Breakfast",
+        "description": "\tSat 9-11am (lineup 8am).",
+        "address": "\t543 Powell St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.092311,
+          49.283318
+        ],
+        "type": "Point"
+      },
+      "id": "27a0e5e989f53b8531647f8eba28ecc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CityReach - Club Freedom Meal",
+        "description": "\tA Christ-centred worship service and hot meal. no registration required. Sun 11am-12pm. For information contact jemald@cityreach.org.",
+        "address": "\t2650 Slocan St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.048888,
+          49.261161
+        ],
+        "type": "Point"
+      },
+      "id": "319c616e4a1c23e8252590242072a85d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tenth Church - Oasis Cafe",
+        "description": "\tFruit and vegetable stand and takeout meals. M 5:30-7:30pm. T 11am-1pm. For info contact oasis.cafe@tenth.ca",
+        "address": "\t11 W 10th Ave Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.105783,
+          49.262351
+        ],
+        "type": "Point"
+      },
+      "id": "384bb6c64670a291dac1c06ba3d37c47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CityReach - Food for Families (Culloden Court)",
+        "description": "\tNutritious foodbank. Open for registered guests F. 3-4pm. Only for individuals and families referred by a partner agency or school. and residents within the geographic borders of Main. Victoria. East 41st Avenue and Fraser River. See www.cityreach.org/foodforfamilies for details and current registration information.",
+        "address": "\t6265 Knight St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.077321,
+          49.227744
+        ],
+        "type": "Point"
+      },
+      "id": "3ad1775548553fc8f76f2de34fda16bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Boussole - Foodbank",
+        "description": "\tW. 1:30pm. For information contact 604-683-7337 or Laboussole@Lbv.Ca",
+        "address": "\t312 Main St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.099169,
+          49.281791
+        ],
+        "type": "Point"
+      },
+      "id": "4cb7ab59d862ce9b85e6538e14344d76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheway - Takeout Meals",
+        "description": "\tM-F 11:30am-1:30pm. Closed on holidays. Groceries are also available to eligible clients. For information contact 604-216-1684 or drop-in M-F 10:30am-3:30pm.",
+        "address": "\t533 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.092398,
+          49.281501
+        ],
+        "type": "Point"
+      },
+      "id": "4d918b5ef934c815ccaca758d6e7231a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Gospel Mission - Meal Program",
+        "description": "\tM-Sun at 11am (free tickets at 10:30am). M-F at 6:30pm (free tickets at 6pm). Sat-Sun at 4pm (free tickets at 3:30pm). For info call (604) 253-3323.",
+        "address": "\t601 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.091066,
+          49.281483
+        ],
+        "type": "Point"
+      },
+      "id": "4f585dc567147152fbbb2ec6bbb092a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lookout Society's Powell St. Getaway - Snacks",
+        "description": "\tDaily at 10:30am. 12:30pm. 2pm. 4pm & 6:30pm. Serving 10 people at a time during COVID.",
+        "address": "\t528 Powell St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.092203,
+          49.283021
+        ],
+        "type": "Point"
+      },
+      "id": "56310c57664eb8a0143a88d44f8cc5a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DTES Neighbourhood House - Meal Program",
+        "description": "\tOatmeal on Mon. Tues. Wed at 10am. Hot lunch on Wed at 12:30pm. Also offering free family programs to DTES families. Contact fdi@dtesnhouse.ca or call 604-215-2030.",
+        "address": "\t573 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.091816,
+          49.281262
+        ],
+        "type": "Point"
+      },
+      "id": "5738bba6b1af62a614c41733d697a224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vancouver Community Fridge - Mount Pleasant",
+        "description": "\tFridge and freezer stocked with free food. located in front of The Soap Dispensary. Available 24/7. More info at https://vcfp.square.site/",
+        "address": "\t3718 Main Street",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.100852,
+          49.251757
+        ],
+        "type": "Point"
+      },
+      "id": "5803714c3e04f3850af991c50457b180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Directions Youth Services - Meal and Snacks",
+        "description": "\tSnacks 24/7; Meal Daily 8-9 pm. Intake process to become a client.",
+        "address": "\t1138 Burrard St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.12829,
+          49.279589
+        ],
+        "type": "Point"
+      },
+      "id": "5d0fec6398131005df28041b5acb9689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salvation Army - Harbour Light Meal Program",
+        "description": "\tM-F at 11am; Sat-Sun at 4:15pm.",
+        "address": "\t119 E Cordova St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.100962,
+          49.282569
+        ],
+        "type": "Point"
+      },
+      "id": "614965d5414e0f7d1d45452a890299f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DUDES Club - Takeout Meal",
+        "description": "\tTh at 4pm.",
+        "address": "\t606 Powell St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.091232,
+          49.283002
+        ],
+        "type": "Point"
+      },
+      "id": "658cce6d9e6eca53f5400ff3b7f62bec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carnegie Community Centre - Cafeteria",
+        "description": "\tMeals served daily. Breakfast ($2.25) at 9-11am. Lunch ($2.75) at 12-4pm. Dinner ($3.50) at 5-8pm.",
+        "address": "\t401 Main St Vancouver BC",
+        "cost": "\tCost: Low cost",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.100121,
+          49.28106
+        ],
+        "type": "Point"
+      },
+      "id": "663250ff334a900fd0f0f78fddeda527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First Baptist Church - Community Meal",
+        "description": "\tT 8:30pm (free tickets 7:30-8:30pm). For info. contact info@firstbc.org or 604.683.8441.",
+        "address": "\t969 Burrard St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.126445,
+          49.281863
+        ],
+        "type": "Point"
+      },
+      "id": "669c2de19805e8aec732ff1b85329627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Kettle Society - Meal Program",
+        "description": "\tDaily 11:30am-2pm. Required to provide name.",
+        "address": "\t1725 Venables St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.070065,
+          49.276925
+        ],
+        "type": "Point"
+      },
+      "id": "6bfc79884ec8039630e9d1a354de9d96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aboriginal Mother Centre - Hampers for Elders",
+        "description": "\tAn Indigenous-operated program.",
+        "address": "\t2019 Dundas St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.062728,
+          49.285156
+        ],
+        "type": "Point"
+      },
+      "id": "6e2e5a6c8ed192822ea2daa4296e96c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Covenant House - Meal Program",
+        "description": "\tM-F 9am-12pm; M. Th. F 3:30-5pm; T-W 2-5pm; Th-F 3:30-5pm.",
+        "address": "\t1302 Seymour St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.126681,
+          49.275159
+        ],
+        "type": "Point"
+      },
+      "id": "6ece60febd2a8f8304de1f9b18e5dcc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CityReach - Food For Families (Slocan)",
+        "description": "\tNutritious foodbank. Open for registered seniors only on T. 4:30-5:15pm. Open for any registered guests on T. 5:30-6:30pm or Th. 11am-noon. Only for individuals and families referred by a partner agency or school. See www.cityreach.org/foodforfamilies for details and current registration information.",
+        "address": "\t2650 Slocan St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.048888,
+          49.261161
+        ],
+        "type": "Point"
+      },
+      "id": "7a9be8bad95c347ad20d127e50200878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vancouver Second Mile Society - Meal Program",
+        "description": "\tN/A",
+        "address": "\t509 E Hastings St Vancouver BC",
+        "cost": "\tCost: 3",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.092787,
+          49.281283
+        ],
+        "type": "Point"
+      },
+      "id": "7e524fcd4e4f0a7aec36e4de2e18acb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St Augustine's Anglican Church - Meal Program",
+        "description": "\tTh 6-7pm. Maximum 2 dinners per guest. please. For info contact (604) 263-9212.",
+        "address": "\t8680 Hudson St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.134299,
+          49.207246
+        ],
+        "type": "Point"
+      },
+      "id": "820de2968d484e71517aa33fba125376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Mountain Neighbourhood House – Food Support",
+        "description": "\tFor more information regarding food support programs. please contact fooddistribution@lmnhs.bc.ca.",
+        "address": "\t3981 Main St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.101409,
+          49.249686
+        ],
+        "type": "Point"
+      },
+      "id": "833c506368a9b32e44856eeb38b8a2f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aboriginal Mother Centre Society - DTES Meals",
+        "description": "\tAn Indigenous -operated program. Meals handed out M-F from 3-5pm on the street from Columbia to Gore/Victory square.",
+        "address": "\t2019 Dundas St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.062728,
+          49.285156
+        ],
+        "type": "Point"
+      },
+      "id": "8344ff7e780ed9c2738178ad9beb5973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vancouver Community Fridge - Food Stash",
+        "description": "\tFridge and freezer stocked with free food. located outside Food Stash Foundation. Accessible 24/7. More info at https://vcfp.square.site/",
+        "address": "\t340 W 2nd Ave Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.111602,
+          49.268137
+        ],
+        "type": "Point"
+      },
+      "id": "86b3d62b1b368b67f73a9d303bac902d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mount Pleasant N'hood House - Referral Support",
+        "description": "\tFor information about meals and groceries available. call 604.879.8208",
+        "address": "\t800 E Broadway Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.086769,
+          49.262154
+        ],
+        "type": "Point"
+      },
+      "id": "872b6494c79192d0e93c56d21fac6f16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greater Van Food Bank - Terminal Ave Location",
+        "description": "\tCheck https://foodbank.bc.ca/ for schedule (usually T. Th. F from 10 am-4 pm; W from 1-7 pm; and Sat 10am-2pm). No onsite parking.",
+        "address": "\t295 Terminal Ave Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.096815,
+          49.27263
+        ],
+        "type": "Point"
+      },
+      "id": "894efb0b27f00f4b3914760a3e9838c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salvation Army Boundless - Nourishing Hope Hampers",
+        "description": "\tGrocery hampers. pickup by appointment only.",
+        "address": "\t3213 Fraser St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.089973,
+          49.256107
+        ],
+        "type": "Point"
+      },
+      "id": "8a5a560e5c7450a2fbb12b4d20195c30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quest Food Exchange Low Cost Grocery (Dundas)",
+        "description": "\tM. Sat 9am–3:45pm. T-Fri 9am–5:45pm. Closed holidays.",
+        "address": "\t2020 Dundas St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.062766,
+          49.284545
+        ],
+        "type": "Point"
+      },
+      "id": "8b563c3a6238758656736ce381854e38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aboriginal Friendship Centre -Grocery Hampers",
+        "description": "\tAn Indigenous-operated program. Delivery services are on a first come. first serve basis with limited availability.",
+        "address": "\t1607 E Hastings St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.071999,
+          49.281562
+        ],
+        "type": "Point"
+      },
+      "id": "98ba339cdfa06f294d3e5167f347efb1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aboriginal Front Door Society - Food Bank",
+        "description": "\tW 10-11am for AFDS members only. W after 11am for the general public.",
+        "address": "\t384 Main St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.099581,
+          49.281633
+        ],
+        "type": "Point"
+      },
+      "id": "9963f4aa7ad3a75d8f87918de013b89e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Street Church - Meal Program",
+        "description": "\tW. F. Sun at 6:30pm",
+        "address": "\t175 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.100521,
+          49.281423
+        ],
+        "type": "Point"
+      },
+      "id": "999ba039ae57cfcd85e20200485d39a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vancouver Community Fridge - Kitsilano",
+        "description": "\tFridge and pantry stocked with free food. located in the alley by the red house and garden at the above address. Accessible 24/7. More info at https://vcfp.square.site/",
+        "address": "\t3066 West 13th Ave",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.173496,
+          49.26029
+        ],
+        "type": "Point"
+      },
+      "id": "a17de4a84a166ba7c02aa4d6d0baed95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SUCCESS Home Health - Chinese Meals on Wheels",
+        "description": "\tChinese meals delivered daily 11am-1pm by Chinese-speaking volunteers. More info at https://www.carebc.ca/meals-on-wheels.html",
+        "address": "\t28 West Pender Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.10539,
+          49.280319
+        ],
+        "type": "Point"
+      },
+      "id": "a6a8223b633613e802536f42c522762a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Japanese Community Volunteers - Meals on Wheels",
+        "description": "\tJapanese style bentos. Call by Friday morning to reserve pickup or delivery the following Tues 11am-Noon.",
+        "address": "\t101-42 West 8th Ave. Vancouver BC",
+        "cost": "\tCost: 7",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.105941,
+          49.263562
+        ],
+        "type": "Point"
+      },
+      "id": "a75c4a72fdc1c59e0c055553f755834b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pandora Community Food Market",
+        "description": "\tLow cost fresh produce market operated by Kiwassa Neighbourhood House. W 2-4pm under blue tents near the field house in Pandora Park. Contact food@kiwassa.ca or 604-254-5401 for more info.",
+        "address": "\t2325 Franklin St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.058179,
+          49.282537
+        ],
+        "type": "Point"
+      },
+      "id": "a836546320cc109e9b20546828612dd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CityReach - Food for Families (YWCA South)",
+        "description": "\tNutritious foodbank. Open for registered guests F. 2-3pm. Only for individuals and families referred by a partner agency or school. See www.cityreach.org/foodforfamilies for details and current registration information.",
+        "address": "\tN/A",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.041331,
+          49.22013
+        ],
+        "type": "Point"
+      },
+      "id": "a9c167b36cd00b079339c6de7cb6c2c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Muslim Care Centre - Meal Program",
+        "description": "\tM-F at 5:30pm. Sat at 1pm. Sun at Noon",
+        "address": "\t140 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.101134,
+          49.281319
+        ],
+        "type": "Point"
+      },
+      "id": "b2147b08b93a0009f8cf0d4ec545b455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SUCCESS Home Health - Western Meals on Wheels",
+        "description": "\tWestern meals delivered daily 11am-1pm. More info at https://www.carebc.ca/meals-on-wheels.html",
+        "address": "\t28 West Pender Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.10539,
+          49.280319
+        ],
+        "type": "Point"
+      },
+      "id": "b975d98bd7e439c6e0cf1f153c519bc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LOAF (Local Open Access Fridge) - Garden Drive",
+        "description": "\tBarrier free fridge. freezer and pantry providing produce. dairy. non-perishable and frozen goods. as well as personal hygiene products. Located behind Dachi restaurant. accessible 24/7. More info at www.loafridge.ca or @loafridge.",
+        "address": "\t2297 E Hastings St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.057999,
+          49.28123
+        ],
+        "type": "Point"
+      },
+      "id": "b9aba9aab1e3b519add1af8942210ec6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PHS - Washington Community Market",
+        "description": "\tLow cost essential food and household supplies. open M-F 9am-4pm. For info contact 604-683-0073.",
+        "address": "\t177 E Hastings St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.100483,
+          49.281655
+        ],
+        "type": "Point"
+      },
+      "id": "ba59d2330efd784865e8e8214b9e0700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christ Church Cathedral - Maundy Cafe",
+        "description": "\tM",
+        "address": "W. Th from 11:30am-12:30pm.",
+        "cost": "\t690 Burrard St Vancouver BC",
+        "signups": "\tCost: Free"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.120359,
+          49.284484
+        ],
+        "type": "Point"
+      },
+      "id": "bab538266e5927e15b5dcc3d0e3890a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evelyne Saller Centre - Low Cost Meals",
+        "description": "\tBreakfast 10am-12pm. Lunch 11am-3pm. Dinner 3-5:50pm. Menu and info at https://vancouver.ca/parks-recreation-culture/evelyne-saller-centre-cafeteria.aspx or 604-665-3075.",
+        "address": "\t320 Alexander St Vancouver BC",
+        "cost": "\tCost: 2",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.09664,
+          49.284008
+        ],
+        "type": "Point"
+      },
+      "id": "bd0d0a63fb490e5471dd8262544b4bba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kits Cares Café – Grocery Hamper Program",
+        "description": "\tFor info contact kitscarescafe@tenth.ca. Operated by Tenth Church.",
+        "address": "\t3512 W 7th Ave Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.182079,
+          49.265757
+        ],
+        "type": "Point"
+      },
+      "id": "bd75fe2d04196cbc1e5f6494b676ece0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cityview Church - Open Table",
+        "description": "\tTh. 12pm. Hot lunch and spiritual service. more info at https://www.cityviewchurch.ca/opentable",
+        "address": "\t4370 Sophia St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.098691,
+          49.245928
+        ],
+        "type": "Point"
+      },
+      "id": "c2020d2740ea1eabf5eb3610c5fdca37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vancouver Community Fridge - Victoria Drive",
+        "description": "\tFridge. freezer. and pantry stocked with free food and home cooked meals. located in the alley behind the green house. accessible 24/7. More info at https://vcfp.square.site/",
+        "address": "\t4040 Victoria Dr Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.064653,
+          49.248881
+        ],
+        "type": "Point"
+      },
+      "id": "c6c047a8db478688e385d1104b7b9a95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "VCH - Healthiest Babies Possible Food Support",
+        "description": "\tFood access and other supports available. Drop in or phone to sign up during hours of ​M",
+        "address": "W. F 8:30am-4:30pm or Th 9:15a.m-5:30p.m.",
+        "cost": "\t1669 E Broadway Vancouver BC",
+        "signups": "\tCost: N/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.070543,
+          49.262625
+        ],
+        "type": "Point"
+      },
+      "id": "cb82e7d2423a32256f5b958b075f6b4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Collingwood N'hood House - Food Hampers",
+        "description": "\tN/A",
+        "address": "\t5288 Joyce St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.032888,
+          49.236608
+        ],
+        "type": "Point"
+      },
+      "id": "cde893eebb43149ab27e7ef94154515c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quest Food Exchange Low Cost Grocery (Hastings)",
+        "description": "\tM and Sat 9am–3:45pm. T to Fri 9am–5:45pm. Closed holidays. Referral requred",
+        "address": "\t611 E Hastings St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.090982,
+          49.281247
+        ],
+        "type": "Point"
+      },
+      "id": "d01de7e0b8af219700d8adf203c04bdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aboriginal Friendship Centre-Elder Meals on Wheels",
+        "description": "\tAn Indigenous-operated program. Provides a daily meal and one hamper per month. Delivery services are on a first come. first serve basis with limited availability.",
+        "address": "\t1607 E Hastings St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.071999,
+          49.281562
+        ],
+        "type": "Point"
+      },
+      "id": "d2edb7af89d1356d478ad807cd5feac6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vancouver Community Fridge - DTES",
+        "description": "\tM-F. 11am-7pm. Fridge. freezer. and pantry stocked with free food. Located inside the Vancouver Women's Health Collective. Buzz to be let into the building. More info at https://vcfp.square.site/",
+        "address": "\t29 W Hastings St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.105587,
+          49.282008
+        ],
+        "type": "Point"
+      },
+      "id": "d2fc8d9b0a68a2c14de61679bf5cb2d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marpole Community Food Hub - Grocery Program",
+        "description": "\tPickup grocery bags on Thurs. 10am-noon weekly.",
+        "address": "\t8680 Hudson St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.134299,
+          49.207246
+        ],
+        "type": "Point"
+      },
+      "id": "e012f4949006544983de95474a263d1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DTES Women's Centre - Drop In - Takeout Meals",
+        "description": "\tDaily (except Wed) 10-11am. 12-2pm. Coffee and snacks until 4pm.",
+        "address": "\t302 Columbia St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.102196,
+          49.281867
+        ],
+        "type": "Point"
+      },
+      "id": "e134ab812b7e9bd29bdf2898782c3c18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Collingwood N'hood House - Morning Star Breakfast",
+        "description": "\tSat - Open for showers at 7 take-away breakfast and lunch bags 8-8:30am.",
+        "address": "\t5288 Joyce St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.032888,
+          49.236608
+        ],
+        "type": "Point"
+      },
+      "id": "e1e02bc89aedff6ba0b8ddaa42d72381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salvation Army Boundless - Breakfast Program",
+        "description": "\tF 9-10am",
+        "address": "\t3213 Fraser St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.089973,
+          49.256107
+        ],
+        "type": "Point"
+      },
+      "id": "e2ecc7fa843acf8f9c6238dcc27e332f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Food Stash - Rescued Food Market",
+        "description": "\tF 3:30-6pm.Perishable food (fruit. vegetables. dairy. meat) on a 'pay what you feel' basis; no payment required (donations accepted but optional).",
+        "address": "\t340 W 2nd Ave Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.111602,
+          49.268137
+        ],
+        "type": "Point"
+      },
+      "id": "e986bfb0e1367ee0b8bbf3f1fdb2710a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "AIDS Vancouver - Supplementary Grocery Program",
+        "description": "\tN/A",
+        "address": "\t1101 Seymour St Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.123682,
+          49.277532
+        ],
+        "type": "Point"
+      },
+      "id": "eb17400b07d54cff870164ea47aaad43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Inner-City Women's Initiatives Essential Services",
+        "description": "\tW. F 5pm",
+        "address": "\t101 E Cordova St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.101593,
+          49.282577
+        ],
+        "type": "Point"
+      },
+      "id": "efdaa02ea54d9a23804a1e818811363b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "YWCA Crabtree Corner - Meal Programs",
+        "description": "\tBreakfast M-F. 8:45-9:45am. Lunch M",
+        "address": "T",
+        "cost": "TH",
+        "signups": "F 1-2:30pm and W. 12-1:15pm."
+      },
+      "geometry": {
+        "coordinates": [
+          -123.092398,
+          49.281501
+        ],
+        "type": "Point"
+      },
+      "id": "f0303e20e71e424db61aff6dfd956046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Food Stash - Rescued Food Box",
+        "description": "\tFor anyone who self-identifies as food insecure and resides within the catchment area posted at www.foodstash.ca/rescued-food-box. Weekly delivered box of ~30 pounds of healthy perishable food (fruit. vegetables. dairy. meat). Currently at capacity.",
+        "address": "\t340 W 2nd Ave Vancouver BC",
+        "cost": "\tCost: N/A",
+        "signups": "\tSignup Required: Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.111602,
+          49.268137
+        ],
+        "type": "Point"
+      },
+      "id": "f0a3b09d44db29ba111d9a5fdc103e9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salvation Army - Soup Truck",
+        "description": "\tT. Sun 9:45pm-11pm",
+        "address": "\t222 Main St Vancouver BC",
+        "cost": "\tCost: Free",
+        "signups": "\tSignup Required: Unknown"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.099659,
+          49.282957
+        ],
+        "type": "Point"
+      },
+      "id": "f6e70c135dd22ead9339896a2273914b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gathering Place Community Centre - Meals",
+        "description": "\tDaily: 9am to 11am. Noon to 2:30pm. 5pm to 7pm",
+        "address": "\t609 Helmcken St Vancouver BC",
+        "cost": "\tCost: 2",
+        "signups": "\tSignup Required: No"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.123799,
+          49.277708
+        ],
+        "type": "Point"
+      },
+      "id": "fbde9826055d559cf0dcf16ba5e723b8"
+    }
+  ],
+  "type": "FeatureCollection"
+}
